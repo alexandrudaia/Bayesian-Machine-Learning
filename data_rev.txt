@@ -1,0 +1,25 @@
+Hello,
+
+We have uploaded all streams to the current Playbac FTP. Melanie, I let you get closer to Guillaume for transmission.
+
+The streams available in the \ out folder are:
+subscriptions
+20180112_DE_Abonnements.csv: file containing the registration drawing of the subscriptions feed
+20180112_Abonnements.csv: files containing all subscription information
+VPC
+20180112_DE_VPC.csv: file containing the VPC stream record drawing
+20180112_VPC.csv: files containing all the VPC information
+origins
+20180112_DE_Origines.csv: file containing the drawing of recording of the origins flow
+20180112_Origines.csv: files containing all information origins
+basic studies
+20180112_DE_Base_Etudes.csv: file containing the recording drawing of the basic flow studies
+20180112_Base_Etudes.csv: files containing all the information of the studies database
+ODC studies database
+20180112_DE_Base_Etudes_ODC.csv: file containing the recording drawing of the ODC studies database feed
+20180112_Base_Etudes_ODC.csv: files containing all the information of the base studies of the counting tool
+email reports
+20180112_DE_Rapports_Emails.csv: file containing the recording drawing of the email reports feed
+20180112_Rapports_Emails.csv: files containing all email report information
+
+Regards,
